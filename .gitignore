@@ -32,5 +32,8 @@ local.properties
 *~
 .DS_Store
 gradle.properties
-.vscode
 *.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
